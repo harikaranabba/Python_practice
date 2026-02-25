@@ -6,7 +6,7 @@ This repository contains all my Python practice programs that I write while lear
 
 📚 Topics Covered
 - Hello World
-- 
+- Escape sequence
 - 
 - 
 - 
