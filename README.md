@@ -8,7 +8,7 @@ This repository contains all my Python practice programs that I write while lear
 - Day1_hello_world
 - Day2_Escape_sequence
 - Day3_datatypes
-- 
+- Day4_Operator
 - 
 - 
 - 
