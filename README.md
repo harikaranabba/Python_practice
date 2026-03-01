@@ -9,7 +9,7 @@ This repository contains all my Python practice programs that I write while lear
 - Day2_Escape_sequence
 - Day3_datatypes
 - Day4_Operator
-- 
+- Day5_logical_operator
 - 
 - 
 🎯 Purpose of This Repository
