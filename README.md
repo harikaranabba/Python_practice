@@ -10,8 +10,7 @@ This repository contains all my Python practice programs that I write while lear
 - Day3_datatypes
 - Day4_Operator
 - Day5_logical_operator
-- 
-- 
+- Day6_Swapping _& augmented operator.py
 🎯 Purpose of This Repository
 - To practice Python programming daily  
 - To store all my Python programs in one place  
