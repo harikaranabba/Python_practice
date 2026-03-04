@@ -5,13 +5,14 @@ Welcome to my Python learning repository!
 This repository contains all my Python practice programs that I write while learning Python step by step.
 
 📚 Topics Covered
-- Day1_hello_world
-- Day2_Escape_sequence
-- Day3_datatypes
-- Day4_Operator
-- Day5_logical_operator
+- Day1_hello_world.py
+- Day2_Escape_sequence.py
+- Day3_datatypes.py
+- Day4_Operator.py
+- Day5_logical_operator.py
 - Day6_Swapping _& augmented operator.py
 - Day7_Type_casting.py
+- Day8_conditional_compound_statement.py
 
 - 
 🎯 Purpose of This Repository
