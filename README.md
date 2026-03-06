@@ -14,6 +14,9 @@ This repository contains all my Python practice programs that I write while lear
 - Day7_Type_casting.py
 - Day8_conditional_compound_statement.py
 -Day9_Nested_if.py
+-Day10_Itretive_statement.py
+
+
 🎯 Purpose of This Repository
 - To practice Python programming daily  
 - To store all my Python programs in one place  
